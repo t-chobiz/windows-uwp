@@ -192,6 +192,12 @@ This is a blank workspace, which you can customize to your liking. You can use t
 
 ![Add tools to workspace](images/device-portal-xbox-13.png)
 
+### Game event data
+
+On the **Game event data** page, you can view a realtime graph that streams in the number of ETW game events currently recorded on your Xbox One. If there are game events recorded on the system, you can also view details (event name, event occurrence, and the game title) describing each event by in a table below the graph. The table is only available if there are events recorded.
+
+![Game event data](images/device-portal-xbox-22.png)
+
 ## See also
 
 * [Windows Device Portal overview](device-portal.md)
